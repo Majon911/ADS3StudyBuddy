@@ -11,7 +11,7 @@ How to use StudyBuddy?
 
 It is pretty easy and can be done in a few stepes:
 1) Make sure you have python installed on your computer, if not install it from here: https://www.python.org/downloads/
-2) Download the "ADS Project 2" from this repository.
+2) Download the "ADS Project 2.py" from this repository.
 3) Run the app by clicking on it follow the prompts inside.
 
 
