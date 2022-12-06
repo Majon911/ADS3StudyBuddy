@@ -17,7 +17,11 @@ It is pretty easy and can be done in a few stepes:
 
 What should I provide inside the StudyBuddy application?
 
-For now, 3 things only, that is: the year of studies you are on, the field in which the question posted is and the bachelor you are doing. After that is correctly provided StudyBuddy will return a list of tutors in the systems list, fitted to your need by the algorithm. 
+For now, 3 things only, that is: the year of studies you are on, the field in which the question posted is and the bachelor you are doing. After that is correctly provided StudyBuddy will return a list of tutors in the systems list, fitted to your need by the algorithm. Currently available categories are:
+
+Years - From 1 to 4
+Fields - STATISTICS, MATH, LAW, BUSINESS, FINANCE, MENTORSHIP, OTHER (Note: Needs to be provided in CAPS, cat. other will search amongst all other fields.)
+Degree - BBA, BDBA, BA, IR, BLL, BAM (Note: Needs to be provided in CAPS, as for now only those bachelors available.)
 
 
 How does the algorithm work?
